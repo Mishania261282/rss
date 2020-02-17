@@ -1,0 +1,18 @@
+body{
+    widows: 1024px;;
+    text-align:center;
+background-color:bisque;}
+    table {
+        
+        width: 50%;
+        height: 100%;
+        margin: auto;
+        text-align:left;
+      }
+      tr,td{
+        height: 10px;
+    
+    }
+    h1,h2{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
