@@ -1,4 +1,4 @@
-## *Mikhail Kirpichov*
+# *Mikhail Kirpichov*
 
 ## *Михаил Кирпичёв*
 
