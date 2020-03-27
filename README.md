@@ -1,2 +1,1 @@
-# rsschool-cv
-https://your-github-account.github.io/rsschool-cv/index.html
+# rsschool-cvhttps://github.com/Mishania261282/rsschool-cv/tree/gh-pages
