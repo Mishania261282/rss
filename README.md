@@ -1,1 +1,1 @@
-https://github.com/Mishania261282/rsschool-cv/tree/gh-pages/index.html
+https://Mishania261282.github.io/rsschool-cv/
